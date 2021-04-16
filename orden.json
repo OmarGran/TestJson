@@ -1,0 +1,22 @@
+{
+    "external_reference": "fac8955415",
+    "total_amount": 245.5,
+    "items": [
+        {
+            "sku_number": "A123K9191938",
+            "category": "marketplace",
+            "title": "Aceite 1 Lt",
+            "description": "Aceite Description",
+            "unit_measure": "unit",
+            "quantity": 1,
+            "unit_price": 245.5,
+            "total_amount": 245.5
+        }
+    ],
+    "title": "Aceite",
+    "description": "Aceite Bardhal",
+    "sponsor": {
+        "id": 744257137
+    },
+    "notification_url": "https://hookb.in/pzDOMrP2nDcXNNqwazaQ"
+}
