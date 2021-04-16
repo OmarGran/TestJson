@@ -1,5 +1,5 @@
 {
-    "external_reference": "NewRev_01",
+    "external_reference": "NewRev_029",
     "total_amount": 245.5,
     "items": [
         {
@@ -15,8 +15,6 @@
     ],
     "title": "compra Aceite",
     "description": "Aceite Bardhal 4lts",
-    "sponsor": {
-        "id": 744257137
-    },
+    "sponsor": {},
     "notification_url": "https://hookb.in/W1DV7PPRERUMooQexqE9"
 }
